@@ -84,7 +84,8 @@
 
 ![作業員編集画面](images/WorkerUpdate-screen.png)
 
-![割当後画面]　(images/Assigned-screen.png)
+![割当後画面](images/Assigned-screen.png)
+
 
 ---
 
