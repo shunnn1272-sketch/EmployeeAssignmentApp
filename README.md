@@ -81,8 +81,11 @@
 
 ### 作業員・工程配置画面
 ![メイン画面](images/main-screen.png)
+
 ![作業員編集画面](images/WorkerUpdate-screen.png)
-![割当後画面](images/Assigned-screen.png)
+
+![割当後画面]　(images/Assigned-screen.png)
+
 ---
 
 ## 動作デモ
