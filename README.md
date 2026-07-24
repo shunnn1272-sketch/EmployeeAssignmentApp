@@ -90,10 +90,7 @@
 ---
 
 ## 動作デモ
-
-### 作業員の工程配置
-
-![作業員配置](images/worker-assignment.gif)
+https://youtu.be/0uk8RNi6PmA
 
 ---
 
