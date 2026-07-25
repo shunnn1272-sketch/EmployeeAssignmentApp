@@ -94,9 +94,27 @@ https://youtu.be/0uk8RNi6PmA
 
 ---
 
+## ダウンロード
+
+Windowsで実際にアプリを操作できます。
+
+https://github.com/shunnn1272-sketch/EmployeeAssignmentApp/releases/tag/v1.0.0
+
+---
+
 ## 操作方法
 
 
 ---
+
+##動作環境
+
+## 動作環境
+
+- OS: Windows 10 / 11
+- .NET 10
+- SQLite
+
+
 
 
