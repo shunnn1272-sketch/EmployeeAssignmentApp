@@ -59,7 +59,7 @@ namespace EmployeeAssignmentApp
 
             DataGridViewButtonColumn workerColumn = new DataGridViewButtonColumn();
             workerColumn.Name = "choiceWorker";
-            workerColumn.HeaderText = "作業者";
+            workerColumn.HeaderText = "作業員";
             workerColumn.Text = "選択";
             workerColumn.Width = 180;
             workerColumn.DataPropertyName = "AssignedWorkerName";

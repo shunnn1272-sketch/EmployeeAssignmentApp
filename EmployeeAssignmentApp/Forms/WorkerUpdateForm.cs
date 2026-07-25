@@ -36,7 +36,7 @@ namespace EmployeeAssignmentApp.Forms
         //習得済み工程表示用ListViewの設定
         private void SetupView()
         {
-            lvEnableProcess.Columns.Add("習得済み工程", 350);
+            lvEnableProcess.Columns.Add("作業可能工程", 350);
         }
 
         //ListViewへ選択した作業員の作業可能工程を表示

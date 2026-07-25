@@ -190,7 +190,7 @@
             label2.Name = "label2";
             label2.Size = new Size(66, 25);
             label2.TabIndex = 18;
-            label2.Text = "作業者";
+            label2.Text = "作業員";
             // 
             // label3
             // 

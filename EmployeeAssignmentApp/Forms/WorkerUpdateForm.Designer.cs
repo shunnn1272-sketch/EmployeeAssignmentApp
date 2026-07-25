@@ -55,11 +55,11 @@
             // 
             // btnDecide
             // 
-            btnDecide.Location = new Point(140, 201);
+            btnDecide.Location = new Point(108, 201);
             btnDecide.Name = "btnDecide";
-            btnDecide.Size = new Size(107, 29);
+            btnDecide.Size = new Size(139, 29);
             btnDecide.TabIndex = 2;
-            btnDecide.Text = "習得済み一覧";
+            btnDecide.Text = "作業可能工程一覧";
             btnDecide.UseVisualStyleBackColor = true;
             btnDecide.Click += btnDecide_Click;
             // 
