@@ -171,6 +171,7 @@
             // dgvAssign
             // 
             dgvAssign.AllowUserToAddRows = false;
+            dgvAssign.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dgvAssign.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dgvAssign.Location = new Point(12, 149);
             dgvAssign.Name = "dgvAssign";
@@ -215,6 +216,7 @@
             // dgvAbsent
             // 
             dgvAbsent.AllowUserToDeleteRows = false;
+            dgvAbsent.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dgvAbsent.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dgvAbsent.Location = new Point(551, 428);
             dgvAbsent.Name = "dgvAbsent";

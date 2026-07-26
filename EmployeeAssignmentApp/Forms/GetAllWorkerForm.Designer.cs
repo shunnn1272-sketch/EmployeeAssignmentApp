@@ -34,6 +34,7 @@
             // 
             // dgvGetAll
             // 
+            dgvGetAll.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dgvGetAll.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dgvGetAll.Dock = DockStyle.Fill;
             dgvGetAll.Location = new Point(0, 0);
